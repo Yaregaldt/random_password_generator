@@ -1,4 +1,3 @@
-
 var generateBtn = document.querySelector("#generate");
 
 // enter password field
